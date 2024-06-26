@@ -11,15 +11,14 @@ This project demonstrates the creation of an end-to-end data analytics workflow 
 
 1. [Project Highlights](#project-highlights)
 2. [Key Insights](#key-insights)
-3. [Required Screenshots](#required-screenshots)
-4. [Setup and Installation](#setup-and-installation)
-5. [Project Workflow](#project-workflow)
+3. [Setup and Installation](#setup-and-installation)
+4. [Project Workflow](#project-workflow)
    - [Dataset Selection](#dataset-selection)
    - [Data Transformation](#data-transformation)
    - [Outlier Detection](#outlier-detection)
    - [Data Visualization](#data-visualization)
    - [Insights and Conclusions](#insights-and-conclusions)
-6. [Summary](#summary)
+5. [Summary](#summary)
 
 ## Project Highlights
 
@@ -40,31 +39,6 @@ This project demonstrates the creation of an end-to-end data analytics workflow 
 5. **Data Analysis Techniques:** Utilize grouping, transformation, and visualization techniques to derive insights.
 6. **Informative Charts:** Count plots, heat maps, and pie charts help in understanding data and drawing conclusions.
 7. **Summary and Communication:** Clear summarization of findings is crucial for decision-making.
-
-## Required Screenshots
-
-To provide a comprehensive view of the project, include the following screenshots:
-
-1. **Dataset Overview:**
-   - Display the first few rows of the dataset to give an initial understanding.
-   
-2. **Column Transformation:**
-   - Show before and after transformation examples of columns.
-
-3. **Box Plot for Outlier Detection:**
-   - Include a Box Plot to illustrate how outliers are detected.
-
-4. **Pie Chart for Ethnic Group Distribution:**
-   - Display the pie chart showcasing the distribution of different ethnic groups.
-
-5. **Count Plot:**
-   - Provide a count plot to visualize the frequency distribution of categorical data.
-
-6. **Heat Map:**
-   - Show a heat map to represent correlations between different variables.
-
-7. **Summary of Findings:**
-   - Include a summarized view of the key findings and insights derived from the analysis.
 
 ## Setup and Installation
 

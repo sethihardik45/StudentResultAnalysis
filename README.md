@@ -66,6 +66,9 @@ pip install pandas numpy matplotlib seaborn
 - Load your dataset using Pandas.
 - Display the first few rows to understand the structure and content.
 
+  ![image](https://github.com/sethihardik45/StudentResultAnalysis/assets/143828829/99068f87-fe9a-409d-9950-4271ee74953e)
+
+
 ### Data Transformation
 
 - Apply necessary transformations to columns for better analysis.

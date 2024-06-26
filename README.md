@@ -66,7 +66,8 @@ pip install pandas numpy matplotlib seaborn
 - Load your dataset using Pandas.
 - Display the first few rows to understand the structure and content.
 
-  ![image](https://github.com/sethihardik45/StudentResultAnalysis/assets/143828829/99068f87-fe9a-409d-9950-4271ee74953e)
+  ![image](https://github.com/sethihardik45/StudentResultAnalysis/assets/143828829/f9c15a8f-6136-4066-a9d0-5acc65e2e1f0)
+
 
 
 ### Data Transformation
@@ -74,9 +75,15 @@ pip install pandas numpy matplotlib seaborn
 - Apply necessary transformations to columns for better analysis.
 - Example: Convert categorical columns to numerical, handle missing values, normalize data, etc.
 
+  ![image](https://github.com/sethihardik45/StudentResultAnalysis/assets/143828829/fbe5e3e1-d3a5-4ab9-9f3b-164ac951023b)
+
+
 ### Outlier Detection
 
 - Use Box Plot to detect and visualize outliers in the data.
+
+  ![image](https://github.com/sethihardik45/StudentResultAnalysis/assets/143828829/aa283174-f805-4684-9b8a-3cc0d8bd5757)
+
 
 ### Data Visualization
 
@@ -84,10 +91,16 @@ pip install pandas numpy matplotlib seaborn
 - **Count Plot:** Visualize the frequency distribution of categorical data.
 - **Heat Map:** Represent correlations between different variables using a heat map.
 
+  ![image](https://github.com/sethihardik45/StudentResultAnalysis/assets/143828829/fa2f7aed-b788-4569-b9df-0869fedaae04)
+
+
 ### Insights and Conclusions
 
 - Analyze the visualizations to derive key insights.
 - Summarize the findings in a clear and concise manner.
+
+  ![image](https://github.com/sethihardik45/StudentResultAnalysis/assets/143828829/e0fa96bc-8ed5-4cdc-a0c4-1e77164431cc)
+
 
 ## Summary
 
